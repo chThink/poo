@@ -56,11 +56,6 @@ Dica: Siga princípios como **SOLID** para evitar armadilhas comuns!
 
 ---
 
-### **O Futuro da POO**  
-Com o crescimento da programação funcional e de paradigmas híbridos, a POO continua evoluindo. Conceitos como **microsserviços** e **DDD (Domain-Driven Design)** beberam da fonte da orientação a objetos para criar sistemas mais resilientes e alinhados com problemas reais.  
-
----
-
 ### **Conclusão**  
 Programação Orientada a Objetos é mais do que classes e objetos: é uma **forma de pensar**. Ela nos ensina a decompor problemas, a encapsular complexidade e a criar sistemas que refletem a riqueza e a diversidade do mundo real.  
 
